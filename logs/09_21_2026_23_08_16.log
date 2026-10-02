@@ -1,0 +1,21 @@
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T17:38:16.902305Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T17:38:16.904033Z", "level": "info", "event": "pdf_parser_initialized"}
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/exists "HTTP/1.1 200 OK"
+HTTP Request: POST https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/points/scroll "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T17:39:00.096479Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\uploads\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T17:39:00.100088Z", "level": "info", "event": "pdf_parser_initialized"}
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/exists "HTTP/1.1 200 OK"
+HTTP Request: POST https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/points/scroll "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents "HTTP/1.1 200 OK"
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T17:59:59.809589Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T17:59:59.810776Z", "level": "info", "event": "pdf_parser_initialized"}
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/exists "HTTP/1.1 200 OK"
+HTTP Request: POST https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/points/scroll "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents "HTTP/1.1 200 OK"
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T18:00:45.358778Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\uploads\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T18:00:45.368417Z", "level": "info", "event": "pdf_parser_initialized"}
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/exists "HTTP/1.1 200 OK"
+HTTP Request: POST https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/points/scroll "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents "HTTP/1.1 200 OK"

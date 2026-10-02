@@ -1,0 +1,43 @@
+# PDF parsing and document processing
+PyMuPDF==1.28.2
+pdfplumber==0.11.10
+pypdf==6.15.0
+python-docx==1.2.0
+
+# OCR and image processing
+pillow==12.3.0
+pytesseract==0.3.13
+
+# Data and table processing
+pandas==3.0.5
+tabulate==0.10.0
+
+# RAG document models
+langchain-core==1.5.3
+
+# Structured application logging
+structlog==26.1.0
+
+langchain-openai==1.4.3
+langchain-qdrant==1.1.0
+langchain-text-splitters==1.1.2
+qdrant-client==1.19.0
+python-dotenv==1.2.3
+streamlit==1.63.0
+
+# Notebook conversion utility
+nbformat==5.11.1
+nbconvert==7.17.1
+
+# Legacy setup.py compatibility
+setuptools==84.0.0
+
+# new
+
+
+langchain-community
+
+langchain-huggingface
+sentence-transformers
+langchain-groq
+torchvision

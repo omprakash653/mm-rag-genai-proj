@@ -1,0 +1,7 @@
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output", "timestamp": "2026-09-12T11:21:29.853196Z", "level": "info", "event": "pdf_parser_initialized"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "timestamp": "2026-09-12T11:21:29.854200Z", "level": "info", "event": "pdf_parsing_started"}
+{"pages": 24, "images": 13, "timestamp": "2026-09-12T11:22:06.236967Z", "level": "info", "event": "pdf_content_extracted"}
+{"tables": 16, "timestamp": "2026-09-12T11:22:07.851829Z", "level": "info", "event": "pdf_tables_extracted"}
+{"documents": 53, "timestamp": "2026-09-12T11:22:07.851829Z", "level": "info", "event": "langchain_documents_created"}
+{"output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output", "timestamp": "2026-09-12T11:22:07.869140Z", "level": "info", "event": "parser_outputs_saved"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "timestamp": "2026-09-12T11:22:07.869140Z", "level": "info", "event": "pdf_parsing_completed"}

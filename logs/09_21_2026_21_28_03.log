@@ -1,0 +1,18 @@
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T15:58:03.814107Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T15:58:03.819597Z", "level": "info", "event": "pdf_parser_initialized"}
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/exists "HTTP/1.1 200 OK"
+HTTP Request: POST https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents/points/scroll "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333/collections/mm-rag-documents "HTTP/1.1 200 OK"
+HTTP Request: GET https://c72c6ec2-2cf0-45f4-b5f1-5674064e6ac2.eu-central-1-0.aws.cloud.qdrant.io:6333 "HTTP/1.1 200 OK"
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T17:33:54.801135Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\uploads\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T17:33:54.811822Z", "level": "info", "event": "pdf_parser_initialized"}
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+{"path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "timestamp": "2026-09-21T17:34:19.277003Z", "level": "info", "event": "tesseract_configured"}
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "output_dir": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\parsed_pdf_output\\Client_Contracts_Policies_and_Incident_Records", "timestamp": "2026-09-21T17:34:19.283531Z", "level": "info", "event": "pdf_parser_initialized"}

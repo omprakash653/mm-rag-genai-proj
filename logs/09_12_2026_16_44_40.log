@@ -1,0 +1,1 @@
+{"pdf_path": "C:\\Users\\hp\\Desktop\\mm-rag-genai-proj\\data\\Client_Contracts_Policies_and_Incident_Records.pdf", "error": "Tesseract executable not found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe", "exc_info": true, "timestamp": "2026-09-12T11:14:40.221129Z", "level": "error", "event": "pdf_parser_initialization_failed"}
